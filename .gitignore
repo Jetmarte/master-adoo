@@ -1,0 +1,46 @@
+
+
+# =====================================
+# API KEYS Y CREDENCIALES
+# =====================================
+.env
+.env.*
+!.env.example
+
+# Obsidian - Copilot: credenciales y configuración privada
+.obsidian/plugins/copilot/data.json
+
+# Otros archivos de credenciales
+*credentials*
+*secret*
+*.pem
+*.key
+
+# =====================================
+# OBSIDIAN - ARCHIVOS TEMPORALES
+# =====================================
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# =====================================
+# SISTEMA OPERATIVO
+# =====================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================
+# EDITORES
+# =====================================
+.vscode/
+.idea/
+
+# =====================================
+# TEMPORALES Y BACKUPS
+# =====================================
+*.tmp
+*.bak
+*.swp
+*.swo
+*~

@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "7f4aeeac80886416",
+    "type": "split",
+    "children": [
+      {
+        "id": "320a78487ea66f63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5161d367263e3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escuela_IT/Analisis/Identificar clases/2. Clases de analisis/GRASP/1. GRASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. GRASP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90edd42e6a7a6b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "f03edfcfb4eb84b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0360a7fb16bc3fc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9138df6b49e92462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "8244ad2251a01dae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.51103591918945
+  },
+  "right": {
+    "id": "0bfcc4af834eca2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e23712b4998fb42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c072bb64b3e34a88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tailwind.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tailwind"
+            }
+          },
+          {
+            "id": "b30718d1e2a6af0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tailwind.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tailwind"
+            }
+          },
+          {
+            "id": "51f40fefd65a247c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c8e1556e3c6f464",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "18cc65c81237de56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Experto en la informacion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Experto en la informacion"
+            }
+          },
+          {
+            "id": "b1e2a8603d42b38b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "8c32f140694851d2",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 479.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "d5161d367263e3c3",
+  "lastOpenFiles": [
+    "Escuela_IT/Analisis/Identificar clases/1. Enfoques de clasificacion/1. Categorizacion clasica.md",
+    "Escuela_IT/Análisis - Categorización/3. Teoría de Prototipos.md",
+    "Escuela_IT/Análisis - Categorización/2. Agrupación Conceptual.md",
+    "Escuela_IT/Análisis - Categorización/1. Categorización Clásica.md",
+    "Escuela_IT/Análisis - Categorización/0. One-Pager.md",
+    "Escuela_IT/Guion practico/1-20/5. Clases grandes.md",
+    "Escuela_IT/Guion practico/1-20/4. Descomposicion funcional.md",
+    "Escuela_IT/Guion practico/1-20/2. Mal comentado.md",
+    "Escuela_IT/Guion practico/1-20/1. Mal formateado.md",
+    "otros/API Architecture/5. Component Integration.md",
+    "otros/API_Architecture/1. API Overview.md",
+    "otros/API Architecture",
+    "RESUMEN_CURSO_ADOO.md",
+    "REFERENCIA_RAPIDA_ADOO.md",
+    "README_ADOO.md",
+    "MAPAS_CONCEPTUALES_ADOO.md",
+    "INDICE_CURSO_ADOO.md",
+    "otros/Logica de negocio y modelo del dominio.md",
+    "otros/Dominio y solucion del problema.md",
+    "Escuela_IT/Excalidraw/Diagrama.md",
+    "Escuela_IT/Análisis - Categorización/INDEX.md",
+    "Escuela_IT/Análisis - Categorización/0. One-Pager.md.tmp.321.1773383230347",
+    "Escuela_IT/Análisis - Categorización/INDEX.md.tmp.321.1773383206664",
+    "Escuela_IT/Análisis - Categorización/3. Teoría de Prototipos.md.tmp.321.1773383177092",
+    "Escuela_IT/Análisis - Categorización/2. Agrupación Conceptual.md.tmp.321.1773383140813",
+    "Escuela_IT/Análisis - Categorización/1. Categorización Clásica.md.tmp.321.1773383110815",
+    "Escuela_IT/Análisis - Categorización",
+    "otros/Saleads/7. One-Pager Visual.md",
+    "otros/Saleads/3. Ejemplo Práctico - Draft Workflow.md",
+    "otros/Saleads/2. Draft API y Componentes.md",
+    "otros/Saleads/1. Draft en Saleads.md",
+    "otros/API_Architecture/2. API Structure.md",
+    "otros/Saleads/0. INDEX.md",
+    "Arquitectura/3. One-Pager - Components vs Shared.md.tmp.152.1772567144764",
+    "Arquitectura/2. Patrones de Organización - Carpetas.md.tmp.152.1772567131716",
+    "Arquitectura",
+    "Escuela_IT/Imagenes/Pasted image 20250827034456.png",
+    "Escuela_IT/Imagenes/Pasted image 20250827034424.png",
+    "Escuela_IT/Imagenes/Pasted image 20250827034244.png",
+    "Tareas-omar/6 sistema de errores/handle-error-course-full/arqui-error-handler.svg",
+    "Tareas-omar/6 sistema de errores/handle-error-course-full/Error Handler Architecture - Next.js Defense in Depth.png"
+  ]
+}
