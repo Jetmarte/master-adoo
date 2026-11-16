@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "6f4dcdbea9da88bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dde1839f30e9811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751b7f21950fd3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisis/Identificar clases/4. Estratejias de clasificacion/2. Analisis clasico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Analisis clasico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56768085f8249478",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee060016d3082626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a51ac3ea6a9e55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1f6311ecb26b2dcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "descripcion informal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b4f545dd774f1912",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.51103591918945
+  },
+  "right": {
+    "id": "b4ad6c0434137973",
+    "type": "split",
+    "children": [
+      {
+        "id": "74af5dae6c17eee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062f26d6082140d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guion practico/1-20/12. DRY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 12. DRY"
+            }
+          },
+          {
+            "id": "8f666412a3f50eda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "POO/Perfil del curso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Perfil del curso"
+            }
+          },
+          {
+            "id": "b942836e52ee91ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6981174fb0c28fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "POO/Perfil del curso.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Perfil del curso"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "751b7f21950fd3ab",
+  "lastOpenFiles": [
+    "Analisis/Identificar clases/4. Estratejias de clasificacion/1. Descripcion Informal.md",
+    "Analisis/Identificar clases/4. Estratejias de clasificacion/2. Analisis clasico.md",
+    "Analisis/Identificar clases/4. Estratejias de clasificacion/3.  Analisis del dominio.md",
+    "Analisis/Identificar clases/1. Enfoques de clasificacion/1. Categorizacion clasica.md",
+    "Diseño/4. Diseño de clases/1. Codigo sucio por clases grandes.md",
+    "Diseño/4. Diseño de clases/2. Codigo sucio por clases perezosas.md",
+    "Guion practico/1-20/5. Clases grandes.md",
+    "Guion practico/21-40/36. Alto acoplamiento.md",
+    "Analisis/Identificar clases/2. Clases de analisis/GRASP/2. Experto en la informacion.md",
+    "Analisis/Identificar clases/2. Clases de analisis/GRASP/1. GRASP.md",
+    "Analisis/Identificar clases/1. Enfoques de clasificacion/3. Teoria de prototipos.md",
+    "Analisis/Identificar clases/1. Enfoques de clasificacion/2. Agrupacion conceptual.md",
+    "Diseño/2. Diseño general/4. Descomposicion funcional.md",
+    "Guion practico/1-20/4. Descomposicion funcional.md",
+    "Diseño/2. Diseño general/3. Nombrado del codigo limpio.md",
+    "Diseño/2. Diseño general/2. Comentarios de codigo limpio.md",
+    "Diseño/2. Diseño general/1. Formato de codigo limpio.md",
+    "Guion practico/1-20/1. Mal formateado.md",
+    "Analisis/Identificar clases/2. Clases de analisis/GRASP/5. Invension Pura.md",
+    "Análisis - Categorización/3. Teoría de Prototipos.md",
+    "Análisis - Categorización/2. Agrupación Conceptual.md",
+    "Análisis - Categorización/1. Categorización Clásica.md",
+    "Análisis - Categorización/0. One-Pager.md",
+    "Guion practico/1-20/3. Mal nombrado.md",
+    "Guion practico/1-20/2. Mal comentado.md",
+    "Guion practico/1-20/6. Clases perezosas.md",
+    "Imagenes/Pasted image 20250827034424.png",
+    "Imagenes/Pasted image 20250827034244.png",
+    "Imagenes/Pasted image 20250827034456.png",
+    "Imagenes/Pasted image 20250827145451.png",
+    "Imagenes/Pasted image 20250827145438.png",
+    "Imagenes/Pasted image 20250827145423.png",
+    "Imagenes/Pasted image 20250827145403.png",
+    "Imagenes/Pasted image 20250827145350.png",
+    "Imagenes/Pasted image 20250827145332.png",
+    "Imagenes/Pasted image 20250827145312.png",
+    "Imagenes",
+    "Guion practico/21-40",
+    "Guion practico/1-20",
+    "Guion practico",
+    "Diseño/Diseño de paquetes",
+    "Diseño/6. Diseño de dependencias",
+    "Diseño/5. Diseño de herencia",
+    "Diseño/4. Diseño de clases",
+    "Diseño/3. Diseño de Metodos",
+    "Diseño/2. Diseño general",
+    "Untitled.canvas",
+    "aaaaaaaaaaaaaaaaaaaa.canvas",
+    "Analisis y diseño OO/3. Software/Analisis de clases/Analisis de clases.canvas",
+    "Analisis y diseño OO/3. Software/Disciplinas del software.canvas",
+    "Diagrama/Diagrama.canvas",
+    "Diagrama POO.canvas"
+  ]
+}
