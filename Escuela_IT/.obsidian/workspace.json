@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño/4. Diseño de clases/2. Codigo sucio por clases perezosas.md",
+                "file": "Diseño/2. Diseño general/8. Principio KISS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Codigo sucio por clases perezosas"
+              "title": "8. Principio KISS"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abbott",
+                "query": "codigo muerto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.51103591918945
+    "width": 468.5
   },
   "right": {
     "id": "b4ad6c0434137973",
@@ -172,16 +172,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26a51ac3ea6a9e55",
+  "active": "751b7f21950fd3ab",
   "lastOpenFiles": [
-    "Diseño/4. Diseño de clases/1. Codigo sucio por clases grandes.md",
+    "Diseño/2. Diseño general/7. Principio No te repitas DRY.md",
+    "Diseño/2. Diseño general/6. Principio no vas ha necesitarlo YAGNI.md",
+    "Diseño/3. Diseño de Metodos/1. Interfaz suficiente completa y primitiva.md",
+    "Diseño/2. Diseño general/2. Comentarios de codigo limpio.md",
+    "Diseño/2. Diseño general/1. Formato de codigo limpio.md",
+    "Diseño/2. Diseño general/5. Anti patron Codigo Muerto.md",
+    "Diseño/3. Diseño de Metodos/4. Codigo sucio por clases alternativas con interfaces diferentes.md",
+    "Diseño/3. Diseño de Metodos/3. Cohesion de metodos.md",
+    "Diseño/3. Diseño de Metodos/2. Principio del menor compromiso o Minima sorpresa.md",
+    "Diseño/1. Codigo limpio/2. No ser inconciente del codigo limpio.md",
+    "Guion/1-20/9. Principio de Minima Sorpresa.md",
     "Diseño/4. Diseño de clases/3. Codigo sucio por obsecion de tipos primitivos.md",
     "Diseño/4. Diseño de clases/2. Codigo sucio por clases perezosas.md",
+    "Diseño/4. Diseño de clases/1. Codigo sucio por clases grandes.md",
     "Guion/1-20/12. DRY.md",
     "Guion/1-20/11. YAGNI.md",
     "Guion/1-20/8. Obsesion por tipos primitivos.md",
     "Guion/1-20/10. Codigo muerto.md",
-    "Guion/1-20/9. Principio de Minima Sorpresa.md",
     "Guion/1-20/7. Cambios divergentes.md",
     "Guion/1-20/6. Clases perezosas.md",
     "Guion/1-20/5. Clases grandes.md",
@@ -190,16 +200,6 @@
     "Guion/1-20/2. Mal comentado.md",
     "Guion/1-20/1. Mal formateado.md",
     "Guion/1-20/16. Inapropiada intimidad.md",
-    "Analisis/Estrategias de Análisis - Categorización/1. Categorización Clásica.md",
-    "Diseño/4. Diseño de clases/7. Codigo sucio por cirugia a escopetazos.md",
-    "Diseño/4. Diseño de clases/8. Codigo sucio por Cambios Divergentes.md",
-    "Diseño/4. Diseño de clases/6. Codigo sucio por libreria incompleta.md",
-    "Diseño/4. Diseño de clases/5. Codigo sucio por clases de datos.md",
-    "Diseño/4. Diseño de clases/4. Codigo sucio por grupos de datos.md",
-    "Diseño/2. Diseño general/8. Principio KISS.md",
-    "Analisis/Identificar clases/2. Clases de analisis/GRASP/3. Alta cohesion.md",
-    "Analisis/Identificar clases/2. Clases de analisis/GRASP/10. Variaciones Protegidas.md",
-    "Analisis/Identificar clases/2. Clases de analisis/GRASP/9. Polimorfismo.md",
     "Imagenes/Pasted image 20250827034424.png",
     "Imagenes/Pasted image 20250827034244.png",
     "Imagenes/Pasted image 20250827034456.png",
